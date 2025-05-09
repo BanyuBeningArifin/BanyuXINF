@@ -19,7 +19,7 @@ print("Welcome") # Ini adegan yang dihapus dari naskah.
 
 #print("Welcome")  # Teaser, belum tayang di bioskop.
 
-# Komentar juga bisa penuh tentang karakter — termasuk karakter spesial IMDb! @#$%^&*()
+# Komentar juga bisa penuh tentang karakter — termasuk karakter spesial IMDb! 
 
 # Menampilkan nama pemeran utama
 print("Bucky")
